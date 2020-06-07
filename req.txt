@@ -1,0 +1,10 @@
+https://www.upwork.com/jobs/Download-and-organize-PDF-amp-mobi-files_~01f8ff8031e5acf401/
+
+
+We would like to get PDF and .mobil files for all issues of the Journal of Economic Perspectives at https://www.aeaweb.org/journals/jep/issues.
+
+File name should be: JEP_YYYY_VV_N where YYYY = year, VV = volume, N = number. For example, the volume listed as Spring 2020 (Vol. 34, No. 2) at https://www.aeaweb.org/issues/590 should have the following files:
+JEP_2020_34_2.pdf
+JEP_2020_34_2.mobi
+
+Deliverable should be in two separate gdoc or dropbox folders: one for the .pdf files and the other for the .mobi files. There will be 132 files in each folder. 
